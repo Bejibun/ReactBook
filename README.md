@@ -31,23 +31,31 @@ for you to use with your app.
 ```
  
  ### For developers
+ ```sh
  $ git clone https://github.com/Bejibun/ReactBook/
+ ```
  
  Install project dependencies:
  
  Props
+ ```sh
  npm install --save prop-types
+ ```
  
  Filter
+ ```sh
  npm install --save escape-string-regexp sort-by
- 
+ ```
  
  React Router Dom
+ ```sh
  npm install --save react-router-dom
- 
+ ```
  
  Serialization
+ ```sh
  npm install --save form-serialize
+ ```
  
  ```sh
  $ npm install
