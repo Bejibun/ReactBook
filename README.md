@@ -74,9 +74,9 @@ for you to use with your app.
  - Shelf Category
  
  ## Built with
- [Visual Studio Code] (https://code.visualstudio.com/)
- [Sublime Text] (https://www.sublimetext.com)
- [Atom] (https://atom.io/)
+ - [Visual Studio Code] (https://code.visualstudio.com/)
+ - [Sublime Text] (https://www.sublimetext.com)
+ - [Atom] (https://atom.io/)
 
 
  ## License
