@@ -57,10 +57,11 @@ for you to use with your app.
  npm install --save form-serialize
  ```
  
+ Start the app:
+ 
  ```sh
  $ npm install
  ```
- Start the app:
  
  ```sh
  $ npm start
